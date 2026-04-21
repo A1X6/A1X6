@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="820" height="300" role="img" aria-label="about — Ahmed Shalaby — Full Stack AI Developer — Aerospace Engineer">
+  <title>about — Ahmed Shalaby</title>
+  <desc>Ahmed Shalaby · Full Stack AI Developer · Aerospace Engineer. Aerospace Engineer turned builder. Ships AI-native SaaS, real-time systems, and the occasional satellite visualization across AI, Web3, IoT, and commerce. Mostly TypeScript, always in production. Queen Mary University of London BEng First Class Hons. Based in Egypt.</desc>
+
+  <rect width="820" height="300" fill="#0a0e17" rx="10"/>
+  <rect x="0.5" y="0.5" width="819" height="299" rx="9.5" fill="none" stroke="#1e293b" stroke-width="1"/>
+
+  <g font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="14">
+    <text x="28" y="44">
+      <tspan fill="#3b82f6">a1x6</tspan><tspan fill="#94a3b8">@</tspan><tspan fill="#3b82f6">mission-control</tspan><tspan fill="#94a3b8">:</tspan><tspan fill="#3b82f6">~</tspan><tspan fill="#94a3b8">$</tspan><tspan fill="#f8fafc" dx="6">cat ./about</tspan>
+    </text>
+
+    <text x="40" y="84" fill="#f8fafc" font-weight="700">Ahmed Shalaby  ·  Full Stack AI Developer  ·  Aerospace Engineer</text>
+
+    <text x="40" y="122" fill="#f8fafc">Aerospace Engineer turned builder.</text>
+    <text x="40" y="144" fill="#f8fafc">I ship AI-native SaaS, real-time systems, and the occasional</text>
+    <text x="40" y="166" fill="#f8fafc">satellite visualization — across AI, Web3, IoT, and commerce.</text>
+    <text x="40" y="188" fill="#f8fafc">Mostly TypeScript. Always in production.</text>
+
+    <text x="40" y="226" fill="#f8fafc">Queen Mary University of London — BEng, First Class Hons.</text>
+
+    <text x="28" y="266">
+      <tspan fill="#3b82f6">a1x6</tspan><tspan fill="#94a3b8">@</tspan><tspan fill="#3b82f6">mission-control</tspan><tspan fill="#94a3b8">:</tspan><tspan fill="#3b82f6">~</tspan><tspan fill="#94a3b8">$</tspan><tspan fill="#3b82f6" dx="6" font-weight="700">▊<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan>
+    </text>
+  </g>
+</svg>
